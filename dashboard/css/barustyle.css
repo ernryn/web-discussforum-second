@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-bottom: 3px solid #c0bfbf;
+    border-radius: 10px;
+}
+
+th {
+    color: rgb(0, 0, 0);
+    margin: 30px;
+    border-radius: 10px;
+}
+
+td {
+    border: 1px solid #c0bfbf;
+    border-radius: 30px;
+    border-bottom: 1px solid #c0bfbf;
+    padding: 4px;
+    border-bottom: 1px solid #c0bfbf;
+}

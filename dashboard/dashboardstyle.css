@@ -1,0 +1,99 @@
+body{
+    text-align: justify;
+}
+
+.container-fluid{
+    background-color: white;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.btn.btn-outline-success{
+    background-color:  #4d07be;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.btn.btn-outline-success:hover {
+    background-color : rgb(230, 230, 230);
+    color:  #4d07be;
+}
+
+.form-control.me-2 {
+    height: 40px;
+    margin-top: 3px;
+    width: 500px;
+}
+
+
+.navbar-toggler {
+    margin-left: -38%;
+}
+
+.navbar-toggler:hover{
+    background-color:  #4d07be;
+    color: white;
+}
+
+.d-flex.mt-3{
+    margin: 10px;
+}
+
+
+.canvas-body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav{
+    padding-top: 70px;
+    padding-right: 20px;
+}
+
+
+.col-md-10.a2 {
+    padding-top: 100px;
+    background-color: rgb(246, 250, 250);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.col-md-12.grid-margin{
+    padding-right: 50px;
+    padding-left: 30px;
+}
+
+button {
+    background-color: #4d07be;
+}
+
+a.text-info{
+    text-decoration: none;
+}
+.row{
+    margin-bottom: 25px;
+}
+
+.btn.btn-primary.mr-2, .file-upload-browse.btn.btn-primary{
+    background-color: #4d07be;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.btn.btn-primary.mr-2a{
+    background-color: #4d07be;
+    border-radius: 10px;
+    width: 85px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.col-md-10.grid-margin.stretch-card{
+    margin-left: 20px;
+}

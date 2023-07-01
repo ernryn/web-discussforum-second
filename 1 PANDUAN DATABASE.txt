@@ -1,0 +1,41 @@
+Data yang disimpan 
+- Pengguna (dashboard/login.html & dashboard/register.html)
+Username
+Email
+Password
+Country
+
+- Bantuan (contact.html)
+Nama
+NoHp
+Email
+Pesan
+
+-Kategori (dashboard.html)
+umum.html
+pendidikan.html
+politik.html
+olahraga.html
+kesehatan.html
+kuliner.html
+
+- Postingan (dashboard/untukposting.html)
+Judul
+Deskripsi
+Gambar
+Kategori
+
+Komentar (dashboard/comment.html)
+Username
+WaktuPosting
+IsiKomentar
+
+Yang Ditampilkan
+Data Pengguna di (dashboard/profil.html)
+Data Postingan (dashboard.html, [allcategories].html, post.html)
+Data Komentar
+
+{Opsional}
+Ada fitur documentation.html buat apa ya 
+
+NB : Cek lagi jika ada kesalahan dan kekurangan!
